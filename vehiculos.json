@@ -1,0 +1,34 @@
+{
+    "vehiculos": [
+      {
+        "modelo": "Palio",
+        "puertas": 5,
+        "color": "Rojo",
+        "precio_base_venta": 15000,
+        "patente": "",
+        "marca": "Fiat",
+        "anio": 2015,
+        "kilometraje": 80000
+      },
+      {
+        "modelo": "Focus",
+        "puertas": 4,
+        "color": "Azul",
+        "precio_base_venta": 25000,
+        "patente": "",
+        "marca": "Ford",
+        "anio": 2019,
+        "kilometraje": 50000
+      },
+      {
+        "modelo": "Cruze",
+        "puertas": 4,
+        "color": "Negro",
+        "precio_base_venta": 18000,
+        "patente": "",
+        "marca": "Chevrolet",
+        "anio": 2012,
+        "kilometraje": 120000
+      }
+    ]
+  }
